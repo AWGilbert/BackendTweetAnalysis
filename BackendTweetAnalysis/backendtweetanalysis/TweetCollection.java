@@ -1,5 +1,8 @@
 package backendtweetanalysis;
 
-public class TweetCollection {
+import java.util.ArrayList;
 
+public class TweetCollection {
+	private ArrayList<Tweet> myData;
+	
 }
